@@ -1,2 +1,3 @@
 # Programming-Practice
-Programming Practice for LeetCode, CodeChef, and other online programming learning platforms across multiple languages and domains
+This repository features code solutions from LeetCode, CodeChef, and other online programming learning platforms. 
+The purpose is to practice interview problems and concepts across multiple different languages and domains.  
